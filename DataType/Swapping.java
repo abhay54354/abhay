@@ -5,7 +5,7 @@ public class Swapping {
     public static void main(String[] args) {
        int a ,b , temp;
 
-       a=20;
+       a=40;
        b=30;
 
        temp =a;
